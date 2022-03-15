@@ -1,0 +1,11 @@
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+#btn-form,
+#input-form{
+    border-radius: .3rem;
+}
